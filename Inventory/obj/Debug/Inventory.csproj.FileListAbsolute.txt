@@ -1,0 +1,68 @@
+D:\UPH\Programing\Inventory\bin\Debug\UAS_03082190007_03082190014.exe.config
+D:\UPH\Programing\Inventory\bin\Debug\UAS_03082190007_03082190014.exe
+D:\UPH\Programing\Inventory\bin\Debug\UAS_03082190007_03082190014.pdb
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+D:\UPH\Programing\Inventory\obj\Debug\UAS_03082190007_03082190014.Properties.Resources.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\UPH\Programing\Inventory\obj\Debug\UAS_03082190007_03082190014.exe
+D:\UPH\Programing\Inventory\obj\Debug\UAS_03082190007_03082190014.pdb
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormLogin.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormMenu.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormPenjualan.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormStok.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormUser.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormLaporanPembelian.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormLaporanPenjualan.resources
+D:\UPH\Programing\Inventory\obj\Debug\Inventory.FormPembelian.resources
+C:\Users\harri\Desktop\Inventory\bin\Debug\UAS_03082190007_03082190014.exe.config
+C:\Users\harri\Desktop\Inventory\bin\Debug\UAS_03082190007_03082190014.exe
+C:\Users\harri\Desktop\Inventory\bin\Debug\UAS_03082190007_03082190014.pdb
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+C:\Users\harri\Desktop\Inventory\obj\Debug\UAS_03082190007_03082190014.Properties.Resources.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormLaporanPembelian.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormLaporanPenjualan.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormLogin.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormMenu.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormPembelian.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormPenjualan.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormStok.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.FormUser.resources
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\harri\Desktop\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\harri\Desktop\Inventory\obj\Debug\UAS_03082190007_03082190014.exe
+C:\Users\harri\Desktop\Inventory\obj\Debug\UAS_03082190007_03082190014.pdb
+D:\UPH\Pengembangan Piranti Lunak\Inventory\bin\Debug\UAS_03082190007_03082190014.exe.config
+D:\UPH\Pengembangan Piranti Lunak\Inventory\bin\Debug\UAS_03082190007_03082190014.exe
+D:\UPH\Pengembangan Piranti Lunak\Inventory\bin\Debug\UAS_03082190007_03082190014.pdb
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\UAS_03082190007_03082190014.Properties.Resources.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormLaporanPembelian.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormLaporanPenjualan.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormLogin.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormMenu.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormPembelian.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormPenjualan.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormStok.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.FormUser.resources
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\UAS_03082190007_03082190014.exe
+D:\UPH\Pengembangan Piranti Lunak\Inventory\obj\Debug\UAS_03082190007_03082190014.pdb
+D:\UPH\Programing\CL\Inventory\bin\Debug\UAS_03082190007_03082190014.exe.config
+D:\UPH\Programing\CL\Inventory\bin\Debug\UAS_03082190007_03082190014.exe
+D:\UPH\Programing\CL\Inventory\bin\Debug\UAS_03082190007_03082190014.pdb
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+D:\UPH\Programing\CL\Inventory\obj\Debug\UAS_03082190007_03082190014.Properties.Resources.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormLaporanPembelian.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormLaporanPenjualan.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormLogin.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormMenu.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormPembelian.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormPenjualan.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormStok.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.FormUser.resources
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+D:\UPH\Programing\CL\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\UPH\Programing\CL\Inventory\obj\Debug\UAS_03082190007_03082190014.exe
+D:\UPH\Programing\CL\Inventory\obj\Debug\UAS_03082190007_03082190014.pdb
